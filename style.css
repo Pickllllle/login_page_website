@@ -46,9 +46,8 @@ body{
   
 .icon-wrapper{
     background: #424874;
-    width: 20px;
-    height: 20px;
-    display: table;
+    width: 30px;
+    height: 34px;
     border-radius: 5px 0px 0px 5px;
 }
 .icon-wrapper i{
